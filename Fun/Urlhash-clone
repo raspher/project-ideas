@@ -1,0 +1,16 @@
+Rust, why not try this awesome language?
+
+2 threads
+
+ - Async Webui for adding items into queue, maybe accounts?
+
+ - Blocking file/folder downloader which creates torrent.
+
+Downloader should process 1 item at time, 
+
+torrent files should persist for downloads for some time
+
+There should be limits for queue size and file/folder size.
+
+
+Ideal hosting: DO have free inbound traffic
